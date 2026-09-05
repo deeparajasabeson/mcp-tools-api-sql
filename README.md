@@ -1,5 +1,6 @@
 # mcp-tools-api-sql
 Projects designed to create MCP Server and Clients to have tools calling API and SQL Server operations to bring in data.
+<img width="800" height="1054" alt="image" src="https://github.com/user-attachments/assets/afd7abfa-efed-4622-92c6-de56619bbca9" />
 
 1. Run MCP Server in one Terminal
    <img width="436" height="83" alt="image" src="https://github.com/user-attachments/assets/f8addc5c-8bde-45dc-9f53-d4c990f4f252" />
