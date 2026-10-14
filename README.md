@@ -1,3 +1,4 @@
+<img width="3089" height="3339" alt="diagram (4)" src="https://github.com/user-attachments/assets/6de4f175-2d27-4221-9c86-7377f70a24c0" />
 # mcp-tools-api-sql
 Projects designed to create MCP Server and Clients to have tools calling API and SQL Server operations to bring in data.
 <img width="800" height="1054" alt="image" src="https://github.com/user-attachments/assets/afd7abfa-efed-4622-92c6-de56619bbca9" />
